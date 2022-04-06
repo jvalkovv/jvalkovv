@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yordan Valkov
 - 👀 I’m interested in programing with C#
-- 🌱 I’m currently learning in SoftUni with C#
+- 🌱 I’m currently learning C# in SoftUni
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
