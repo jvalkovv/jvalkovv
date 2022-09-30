@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yordan Valkov!
 - 👀 I’m interested in C# Development, Blockchain technology, Cryptocurrencies, Futures trading and NFTs.
 - 🌱 I’m currently learning in SoftUni C# Development.
-- 📫 How to reach me yordan_valkov@abv.bg
+- 📫 How to reach me yordan.valkov@gmail.com
 
 <!---
 jvalkovv/jvalkovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
