@@ -3,7 +3,7 @@
 - 👀 I’m interested in C# Development, Blockchain technology, Cryptocurrencies, Futures trading and NFTs.
 - 🌱 I’m currently learning in SoftUni C# Development.
 - 📫 How to reach me: yordan.valkov@gmail.com
-- 📫 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvalkovv) 
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvalkovv) 
 
  ---
 
