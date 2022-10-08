@@ -2,10 +2,12 @@
 - 👋 Hi, I’m Yordan Valkov!
 - 👀 I’m interested in C# Development, Blockchain technology, Cryptocurrencies, Futures trading and NFTs.
 - 🌱 I’m currently learning in SoftUni C# Development.
-- 📫 How to reach me: yordan.valkov@gmail.com
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvalkovv) 
-
- ---
+<h2  align="left">📫 How to reach me:</h2>
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/jvalkovv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:yordan.valkov@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
