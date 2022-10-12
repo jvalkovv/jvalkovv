@@ -19,10 +19,9 @@
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=jvalkovv&theme=dark&dates=F2F2F2&ring=FFAE08&currStreakLabel=FFAE08)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jvalkovv&theme=dark&dates=F2F2F2&ring=FFAE08&currStreakLabel=FFAE08&fire=DD2727)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvalkovv&border_color=00A8A3&text_color=F2F2F2&title_color=FFAE08&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 jvalkovv/jvalkovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
