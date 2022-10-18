@@ -1,7 +1,7 @@
   ### :woman_technologist: About Me :
 - 👋 Hi, I’m Yordan Valkov!
 - 👀 I’m interested in C# Development, Blockchain technology, Cryptocurrencies, Futures trading and NFTs.
-- 🌱 I’m currently learning in SoftUni C# Development.
+- 🌱 I’m currently learning in [SoftUni](https://github.com/SoftUni) C# Development.
 <h2  align="left">📫 How to reach me:</h2>
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/jvalkovv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
