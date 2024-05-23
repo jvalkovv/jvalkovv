@@ -14,13 +14,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="ASP.NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio" width="40" height="40" />&nbsp;
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp; 
-  <img  src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="Bootstrap"  width="40" height="40"/>&nbsp;
+  <img  src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" title="Bootstrap" alt="Bootstrap"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studi Code"  width="40" height="40"/>&nbsp;
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" title="Visual Studio Code" alt="Visual Studio Code"  width="40" height="40"/>&nbsp;
 </div>
 
  ---
