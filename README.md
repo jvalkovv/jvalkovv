@@ -23,6 +23,8 @@
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" title="Visual Studio Code" alt="Visual Studio Code"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Action" alt="GitHub Action"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
 </div>
 
  ---
